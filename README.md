@@ -11,6 +11,11 @@ The data used came from Kaggle and was collected through an online take it yours
 
 Materials used for this analysis were, numpy, pandas, matplotlib, seaborn, scikit, and yellowbrick, a python tool used to visualize the elbow intergeal to KMeans clustering. The code waws written in Jupytr Notebooks, and Google Colabs. 
 
+An interesting article on Psycology today looks at a similar use of Kmenas clustering and concludes that there are a small number of personality profiles relatively speaking.
+https://www.psychologytoday.com/us/blog/seeing-what-others-dont/201908/how-many-personality-configurations-exist
+The tools used in this study were refined and had good documentation. However, the notebooks are run on teh cloud and contrary to the expected ease of collaboration, getting the same things on two computers proved difficult. Another challenge was that our dataset was too large for some methods to handle and threw errors for infinite numbers.
+
 Preliminary findings seem to indicate that conscientiousness and openness are often seen together when both values are 3 or above. This seems contradictary since mainstreram academia defines Conscientiousness as liking order and boundries, characteristics that do not go with thier definition of Openness.
 Another interesting find was that there is an even distribution over the clusters made by the KMean model. other than 0, all cluster combinatins were fairly evenly distributed. This means that there are an approximately even number of people whos personality can be tied to a single trait, two, three, four, and all five. Interesting is that the curve is slightly dipped in the middle as opposed to a more traditional normal distribution we would have thought to find.  
+
 
