@@ -1,4 +1,5 @@
 # DataScienceFinal
+Nathan Dunn, Paul Lussier
 notebook exploring the big 5 personality test with machine learning
 
 Personality--one's patterns of thinking, feeling, and behaving--determines one's satisfaction and success in almost every significant domain in life. From friendships, to romantic relationships, to one's profession, a personality that matches our engagements in life is a foundational condition on which our happiness depends. However, personality is very poorly understood. When most people attempt to describe a personality, particularly their own, typically they mention something that is really just a quirk, preference, or interest. Formally(or at least academically), personality The Big Five personality traits or OCEAN model is the most robust and widely accepted paradigm in personality psychometrics to date. 
