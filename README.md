@@ -1,7 +1,8 @@
 # DataScienceFinal
 Nathan Dunn, Paul Lussier Exploring the Big 5 personality test with Kmeans Clustering
 
-#Introduction
+INTRODUCTION
+
 	Personality--one's patterns of thinking, feeling, and behaving--determines one's satisfaction and success in almost every significant domain in life.
 From friendships, to romantic relationships, to one's political leanings, the effects of personality are profound, according the literature referenced below. However, 
 personality is still poorly understood. Though imperfect, The Big Five personality traits or OCEAN model is generally considered the most robust and is the most widely accepted
@@ -23,7 +24,8 @@ optimal number of clusters for a Kmeans model. The code was written in Jupytr No
 	One challenges was that the notebooks are run on the cloud and contrary to the expected ease of collaboration, getting the same things on two computers proved difficult.
 Another was that our dataset was too large for some methods to handle and threw errors for infinite numbers.
 
-#Findings
+FINDINGS
+
 	Preliminary findings seem to indicate that conscientiousness and openness are often seen together when both values are 3 or above. 
 This seems contradictary since mainstream academia defines Conscientiousness as liking order and boundries--characteristics that do not intuitively square with the definition
 of Openness. Another interesting find was that there is an even distribution over the clusters made by the KMean model. Other than 0, all cluster combinations were fairly evenly
